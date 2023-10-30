@@ -1,22 +1,17 @@
 using System;
-
 namespace LINQ;
 
-public class Todo
+public class Tarefa
 {
-     public Todo()
-    {
-        
-    }  
+    public Tarefa() { }
 
-    public Todo(int id, string titulo, bool concluido, string nomeUsuario) 
+    public Tarefa(int id, string titulo, bool concluido, string nomeUsuario)
     {
-        this.Id = id;
-        this.Titulo = titulo;
-        this.Concluido = concluido;
-        this.Data = DateTime.Now;
-        this.NomeUsuario = nomeUsuario;
-   
+        Id = id;
+        Titulo = titulo;
+        Concluido = concluido;
+        Data = DateTime.Now;
+        NomeUsuario = nomeUsuario;
     }
 
     public int Id { get; set; }
@@ -31,5 +26,4 @@ public class Todo
 
     public override string ToString() =>
         $"Id: {Id} | Titulo: {Titulo} | Concluido: {Concluido} | Data: {Data.ToShortDateString()} | Usuário: {NomeUsuario}";
-    
 }
