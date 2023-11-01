@@ -22,6 +22,6 @@ public class Tarefa
     public override string ToString() =>
         $"Id: {Id} | Titulo: {Titulo} | Concluido: {Concluido} | Usuário: {NomeUsuario}";
 
-
+    
 }
 
