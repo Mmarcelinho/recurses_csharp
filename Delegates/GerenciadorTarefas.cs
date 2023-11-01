@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 namespace Delegates;
 
 public delegate void GerenciarTarefa(Tarefa tarefa);

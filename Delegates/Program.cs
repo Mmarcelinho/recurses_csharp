@@ -1,6 +1,4 @@
-﻿using System;
-using Delegates;
-namespace Delegates;
+﻿namespace Delegates;
 
 public class Program
 {

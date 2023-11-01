@@ -1,4 +1,3 @@
-using System;
 namespace LINQ;
 
 public class Tarefa

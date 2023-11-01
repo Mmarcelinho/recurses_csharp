@@ -1,6 +1,4 @@
-﻿using System.Linq;
-using System.Collections.Generic;
-namespace LINQ;
+﻿namespace LINQ;
 
 class Program
 {

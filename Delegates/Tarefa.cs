@@ -1,5 +1,3 @@
-using System.Reflection;
-
 namespace Delegates;
 public class Tarefa
 {
