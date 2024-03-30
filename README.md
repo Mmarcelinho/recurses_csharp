@@ -1,6 +1,6 @@
-# Recursos C# - Projetos de Exemplo
+# Recursos C#
 
-Nesta projeto, você encontrará exemplos em C# que demonstram diferentes conceitos e recursos da linguagem. Cada projeto é descrito brevemente abaixo:
+Este repositório contém exemplos em C# que demonstram diferentes conceitos e recursos da linguagem.
 
 ##  Referências
 
